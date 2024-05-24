@@ -1,4 +1,4 @@
-# Hi there :wave:
+# Terve! :wave:
 
 - 💻 Working in R and Python, with a bit of bash and SQL here and there
 - 🕸️ Passion for medical networks
