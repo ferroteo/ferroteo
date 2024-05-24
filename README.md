@@ -1,9 +1,13 @@
 # Hi there :wave:
 
-- 👨‍🎓 I studied Biostatistics in Italy
-- 💻 Working in R and Python
-- 🕸️: Passion for medical networks
+- 💻 Working in R and Python, with a bit of bash and SQL here and there
+- 🕸️ Passion for medical networks
 
-- 🇫🇮 Currently working at [@dsgelab](https://www.dsgelab.org/) 
-  - Using registry data to uncover familial risk factors and GNN to explore family pedigrees
+- 🇮🇹👨‍🎓 Studied Biostatistics in Italy
+- 🇫🇮👨‍🎓 Currently working at [@dsgelab](https://www.dsgelab.org/) 
+  - Using registry data to uncover familial risk factors
   - Processing registry data for the ([@FinRegistry](https://www.finregistry.fi/) project
+  
+- 📂 Worked on:
+  - GNN to explore family pedigree structures
+  - medication purchase adherence trajectories
