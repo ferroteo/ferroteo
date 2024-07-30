@@ -8,6 +8,7 @@
 - 🇫🇮👨‍🎓 Currently working at [@dsgelab](https://www.dsgelab.org/) 
   - Using registry data to uncover familial risk factors
   - Processing registry data for the [@FinRegistry](https://www.finregistry.fi/) project
+  - Defining the determinants of triptan medication switching & Medication Overuse Headhache (MOH)
 <br> 
 
 - 📂 Worked on:
