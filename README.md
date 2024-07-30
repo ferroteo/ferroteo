@@ -1,7 +1,7 @@
 # Terve! :wave:
 
 - 💻 Working in R and Python, with a bit of bash and SQL here and there
-- 🕸️💉 Passion for medical networks and precision medicine
+- 👪⚕️ Passion for medical networks and precision medicine
 <br>
 
 - 🇮🇹👨‍🎓 Studied Biostatistics in Italy
