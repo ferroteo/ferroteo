@@ -1,4 +1,5 @@
 # Terve! :wave:
+visit my [website](https://ferroteo.github.io/) for more info!
 
 - 💻 Working in R and Python, with a bit of bash and SQL here and there
 - 👪⚕️ Passion for medical networks and precision medicine
@@ -14,3 +15,4 @@
 - 📂 Worked on:
   - GNN to explore family pedigree structures
   - medication purchase adherence trajectories
+
